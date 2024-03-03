@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @DilipBsr
-- 👀 I’m interested in Learning
-- 🌱 I’m currently learning .
-- 💞️ I’m looking to collaborate for learning
-- 📫 How to reach me for learning
+- 👋 Hi, I’m Bhola Shankar
+- 👀 I’m a B.Tech Student .
 
 <!---
 DilipBsr/DilipBsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
